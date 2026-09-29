@@ -40,8 +40,6 @@ I enjoy turning ideas into well engineered products  from system design and arch
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>&nbsp;
 </p>
 
-## GitHub Stats
-
 
 
 
